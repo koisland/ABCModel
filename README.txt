@@ -33,7 +33,3 @@ The script operates on four levels:
 Image Upgrade! Resize and rescale images to be equal size to prevent janky window changes.
 Game Potential! Generate random combination of console grid and have player guess what combination of gene/whorl disabling produces image.
 ABC Model -> ABCE Model Upgrade! This is the most difficult and would take the longest. I like a good challenge though!
-
-- Updates - 
-New Versions will be available here.
-https://drive.google.com/drive/folders/1HlETtxZOut8VeGlHvqA9w6zv3j6vgEBE?usp=sharing 
