@@ -4,7 +4,9 @@ slides in *EEMB 157CL* look really similar to the buttons used in Python's Tkint
 and an interactive way to learn the ABC Model. I also figured that it wouldn't be too difficult to figure out an 
 algorithm to predict what a perfect flower would look like if one disabled a given set of genes.
 
-![](Images/Whole%20Images/No%20C%20in%20W4,%20B+C%20in%20W1+4.png)
+<p align="center">
+	<img width="33%" src="https://raw.githubusercontent.com/koisland/ABCModel/main/Images/Whole%20Images/No%20C%20in%20W4%2C%20B%2BC%20in%20W1%2B4.png" />
+</p>
 
 ### About
 1. A grid that that prints ABC gene expression as a list in the python console.
