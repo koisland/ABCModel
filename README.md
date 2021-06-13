@@ -33,6 +33,7 @@ algorithm to predict what a perfect flower would look like if one disabled a giv
 			* *Check the "Whole Images" folder* **( ; _ ;)**
 
 ### In-Progress
+
 -[ ] *Image Upgrade*
 	- Resize and rescale images to be equal size to prevent janky window changes.
 -[ ] *Game Potential*
