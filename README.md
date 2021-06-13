@@ -1,8 +1,10 @@
-### Introduction
+## ABC Model
 I built this script for fun after noticing that that the class genes in the ABC Model 
 slides in *EEMB 157CL* look really similar to the buttons used in Python's Tkinter module. It seemed like an easy fit 
 and an interactive way to learn the ABC Model. I also figured that it wouldn't be too difficult to figure out an 
 algorithm to predict what a perfect flower would look like if one disabled a given set of genes.
+
+![](Images/Whole%20Images/No%20C%20in%20W4,%20B+C%20in%20W1+4.png)
 
 ### About
 1. A grid that that prints ABC gene expression as a list in the python console.
@@ -31,6 +33,9 @@ algorithm to predict what a perfect flower would look like if one disabled a giv
 			* *Check the "Whole Images" folder* **( ; _ ;)**
 
 ### In-Progress
-* Image Upgrade! Resize and rescale images to be equal size to prevent janky window changes.
-* Game Potential! Generate random combination of console grid and have player guess what combination of gene/whorl disabling produces image.
-* ABC Model -> ABCE Model Upgrade! This is the most difficult and would take the longest.
+-[ ] *Image Upgrade*
+	- Resize and rescale images to be equal size to prevent janky window changes.
+-[ ] *Game Potential*
+	- Generate random combination of console grid and have player guess what combination of gene/whorl disabling produces image.
+-[ ] *ABCE Model*
+	- Convert ABC model to ABCE model. This is the most difficult and would take the longest.
