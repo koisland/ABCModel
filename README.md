@@ -34,9 +34,9 @@ algorithm to predict what a perfect flower would look like if one disabled a giv
 
 ### In-Progress
 
--[ ] *Image Upgrade*
+- [ ] *Image Upgrade*
 	- Resize and rescale images to be equal size to prevent janky window changes.
--[ ] *Game Potential*
+- [ ] *Game Potential*
 	- Generate random combination of console grid and have player guess what combination of gene/whorl disabling produces image.
--[ ] *ABCE Model*
+- [ ] *ABCE Model*
 	- Convert ABC model to ABCE model. This is the most difficult and would take the longest.
